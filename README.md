@@ -1,5 +1,3 @@
-Here's an improved version of your README.md, focusing on clarity, structure, and enhanced presentation:
-
 ---
 
 # TCP Port Scanner
